@@ -1,79 +1,79 @@
 [
            {
-           id: 1,
-           name: "Minecraft",
-           description: "A sandbox game that allows players to build, explore, and survive in a blocky, procedurally generated 3D world.",
-           ageRating: "E10+",
-           logo_url: "https:raw.githubusercontent.com/midwestcoder2020/logos/refs/heads/main/mc.jpg"
+           "id": 1,
+           "name": "Minecraft",
+           "description": "A sandbox game that allows players to build, explore, and survive in a blocky, procedurally generated 3D world.",
+           "ageRating": "E10+",
+           "logo_url": "https:raw.githubusercontent.com/m"id"westcoder2020/logos/refs/heads/main/mc.jpg"
          },
          { 
-           id: 2,
-           name: "Minecraft Dungeons",
-           description: "An action-adventure game inspired by classic dungeon crawlers, set in the Minecraft universe with cooperative multiplayer gameplay.",
-           ageRating: "E10+",
-           logo_url: "https:gcdnb.pbrd.co/images/wrpsQliGKnaF.jpg"
+           "id": 2,
+           "name": "Minecraft Dungeons",
+           "description": "An action-adventure game inspired by classic dungeon crawlers, set in the Minecraft universe with cooperative multiplayer gameplay.",
+           "ageRating": "E10+",
+           "logo_url": "https:gcdnb.pbrd.co/images/wrpsQliGKnaF.jpg"
          },
          {
-           id: 3,
-           name: "Minecraft Legends",
-           description: "A real-time strategy spin-off set in the Minecraft universe, focusing on building armies and defending against piglin invasions.",
-           ageRating: "E10+",
-           logo_url: "https:gcdnb.pbrd.co/images/XoJD7kTbAn84.jpg"
+           "id": 3,
+           "name": "Minecraft Legends",
+           "description": "A real-time strategy spin-off set in the Minecraft universe, focusing on building armies and defending against piglin invasions.",
+           "ageRating": "E10+",
+           "logo_url": "https:gcdnb.pbrd.co/images/XoJD7kTbAn84.jpg"
          },
          {
-           id: 4,
-           name: "Hytale",
-           description: "An adventure sandbox game similar to Minecraft, featuring a mix of building, exploration, and role-playing elements with a focus on storytelling.",
-           ageRating: "E10+",
-           logo_url: "https:gcdnb.pbrd.co/images/pSrTkSWRhWb5.jpg"
+           "id": 4,
+           "name": "Hytale",
+           "description": "An adventure sandbox game similar to Minecraft, featuring a mix of building, exploration, and role-playing elements with a focus on storytelling.",
+           "ageRating": "E10+",
+           "logo_url": "https:gcdnb.pbrd.co/images/pSrTkSWRhWb5.jpg"
          },
          {
-           id: 5,
-           name: "Terraria",
-           description: "A 2D sandbox game with building, crafting, and exploration elements, often compared to Minecraft for its open-ended gameplay.",
-           ageRating: "T",
-           logo_url: "https:gcdnb.pbrd.co/images/PUTgYwFLMnjY.jpg"
+           "id": 5,
+           "name": "Terraria",
+           "description": "A 2D sandbox game with building, crafting, and exploration elements, often compared to Minecraft for its open-ended gameplay.",
+           "ageRating": "T",
+           "logo_url": "https:gcdnb.pbrd.co/images/PUTgYwFLMnjY.jpg"
          },
          {
-           id: 6,
-           name: "Pokémon Scarlet & Violet",
-           description: "An open-world RPG in the Pokémon series, featuring exploration and battles in the Paldea region.",
-           ageRating: "E",
-           logo_url: "https:gcdnb.pbrd.co/images/muyLqVRSvo5z.jpg"
+           "id": 6,
+           "name": "Pokémon Scarlet & Violet",
+           "description": "An open-world RPG in the Pokémon series, featuring exploration and battles in the Paldea region.",
+           "ageRating": "E",
+           "logo_url": "https:gcdnb.pbrd.co/images/muyLqVRSvo5z.jpg"
          },
          {
-           id: 7,
-           name: "Pokémon Legends: Arceus",
-           description: "An action RPG that offers a new Pokémon catching experience with open-world exploration and real-time mechanics.",
-           ageRating: "E",
-           logo_url: "https:gcdnb.pbrd.co/images/bzhKnMZgXKjQ.jpg"
+           "id": 7,
+           "name": "Pokémon Legends: Arceus",
+           "description": "An action RPG that offers a new Pokémon catching experience with open-world exploration and real-time mechanics.",
+           "ageRating": "E",
+           "logo_url": "https:gcdnb.pbrd.co/images/bzhKnMZgXKjQ.jpg"
          },
          {
-           id: 8,
-           name: "Pokémon Sword & Shield",
-           description: "A mainline RPG set in the Galar region, featuring traditional turn-based battles and exploration of vast wild areas.",
-           ageRating: "E",
-           logo_url: "https:gcdnb.pbrd.co/images/yVBrUqKqwmgg.jpg"
+           "id": 8,
+           "name": "Pokémon Sword & Shield",
+           "description": "A mainline RPG set in the Galar region, featuring traditional turn-based battles and exploration of vast wild areas.",
+           "ageRating": "E",
+           "logo_url": "https:gcdnb.pbrd.co/images/yVBrUqKqwmgg.jpg"
          },
          {
-           id: 9,
-           name: "Pokémon Let's Go Pikachu! & Eevee!",
-           description: "Remakes of the classic Pokémon Yellow, featuring simplified gameplay and integration with Pokémon GO.",
-           ageRating: "E",
-           logo_url: "https:gcdnb.pbrd.co/images/0JdeCXhzAc2f.jpg"
+           "id": 9,
+           "name": "Pokémon Let's Go Pikachu! & Eevee!",
+           "description": "Remakes of the classic Pokémon Yellow, featuring simplified gameplay and integration with Pokémon GO.",
+           "ageRating": "E",
+           "logo_url": "https:gcdnb.pbrd.co/images/0JdeCXhzAc2f.jpg"
          },
          {
-           id: 10,
-           name: "Pokémon GO",
-           description: "An augmented reality mobile game where players catch Pokémon in the real world using their mobile devices.",
-           ageRating: "E",
-           logo_url: "https:gcdnb.pbrd.co/images/z9zqKXQ7TKM4.jpg"
+           "id": 10,
+           "name": "Pokémon GO",
+           "description": "An augmented reality mobile game where players catch Pokémon in the real world using their mobile devices.",
+           "ageRating": "E",
+           "logo_url": "https:gcdnb.pbrd.co/images/z9zqKXQ7TKM4.jpg"
          },
          {
-           id: 11,
-           name: "Roblox",
-           description: "An online platform that allows users to create and play games made by other users in a variety of genres, using a wide range of customizable tools.",
-           ageRating: "E10+",
-           logo_url: "https:gcdnb.pbrd.co/images/YJwk8ybOUJUD.jpg"
+           "id": 11,
+           "name": "Roblox",
+           "description": "An online platform that allows users to create and play games made by other users in a variety of genres, using a w"id"e range of customizable tools.",
+           "ageRating": "E10+",
+           "logo_url": "https:gcdnb.pbrd.co/images/YJwk8ybOUJUD.jpg"
          }
 ]
