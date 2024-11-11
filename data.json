@@ -1,5 +1,5 @@
 [
-          {
+           {
            "id": 1,
            "name": "Minecraft",
            "description": "A sandbox game that allows players to build, explore, and survive in a blocky, procedurally generated 3D world.",
@@ -72,7 +72,7 @@
          {
            "id": 11,
            "name": "Roblox",
-           "description": "An online platform that allows users to create and play games made by other users in a variety of genres, using a w"id"e range of customizable tools.",
+           "description": "An online platform that allows users to create and play games made by other users in a variety of genres, using a wide range of customizable tools.",
            "ageRating": "E10+",
            "logo_url": "https:gcdnb.pbrd.co/images/YJwk8ybOUJUD.jpg"
          }
